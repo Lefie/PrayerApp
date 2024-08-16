@@ -1,1 +1,2 @@
 # PrayerApp
+Have a prayer petition in mind ? Want to reach out to a friend and have them pray for you ? If the answer is a resounding "yes" to the previous two questions, then this is the app for you! Submit a prayer request so we can pray for one another! James 5:16
